@@ -2,8 +2,7 @@
 Windows上修改ITE87 GPIO的简单测试工具 工控机型号QOTOM 350P
 
 
-
-##### 开发环境
+#### 开发环境
 
 Visual Studio 2017
 
@@ -13,13 +12,13 @@ Visual Studio 2017
 
 打开后如果提示“Unable to open InpOut driver”，安装InstallDriver.exe
 
-##### 使用方法
+#### 使用方法
 
-这里只做了简单的输入/输出，高低电平设置功能
+这里只做了简单的输入/输出设置和高低电平设置功能
 
-只能接收十六进制数据
+输入框只能填写十六进制数据
 
-##### 软件截图
+#### 软件截图
 
 ![jietu](./gpio.png)
 
