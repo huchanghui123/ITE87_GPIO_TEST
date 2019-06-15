@@ -1,0 +1,2 @@
+# ITE87_GPIO_TEST
+Windows上修改ITE87 GPIO的简单测试工具 工控机型号QOTOM 350P
