@@ -17,8 +17,10 @@ Visual Studio 2017
 
 这里只做了简单的输入/输出，高低电平设置功能
 
-只能接受十六进制数据
+只能接收十六进制数据
 
 ##### 软件截图
 
 ![jietu](./gpio.png)
+
+**Linux：https://github.com/huchanghui123/ITE87_GPIO_TEST_LINUX**
