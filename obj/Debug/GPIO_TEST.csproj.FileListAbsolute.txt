@@ -1,0 +1,9 @@
+c:\users\laohu\documents\visual studio 2015\Projects\GPIO_TEST\GPIO_TEST\bin\Debug\GPIO_TEST.exe.config
+c:\users\laohu\documents\visual studio 2015\Projects\GPIO_TEST\GPIO_TEST\bin\Debug\GPIO_TEST.exe
+c:\users\laohu\documents\visual studio 2015\Projects\GPIO_TEST\GPIO_TEST\bin\Debug\GPIO_TEST.pdb
+c:\users\laohu\documents\visual studio 2015\Projects\GPIO_TEST\GPIO_TEST\obj\Debug\GPIO_TEST.csprojResolveAssemblyReference.cache
+c:\users\laohu\documents\visual studio 2015\Projects\GPIO_TEST\GPIO_TEST\obj\Debug\GPIO_TEST.Form1.resources
+c:\users\laohu\documents\visual studio 2015\Projects\GPIO_TEST\GPIO_TEST\obj\Debug\GPIO_TEST.Properties.Resources.resources
+c:\users\laohu\documents\visual studio 2015\Projects\GPIO_TEST\GPIO_TEST\obj\Debug\GPIO_TEST.csproj.GenerateResource.Cache
+c:\users\laohu\documents\visual studio 2015\Projects\GPIO_TEST\GPIO_TEST\obj\Debug\GPIO_TEST.exe
+c:\users\laohu\documents\visual studio 2015\Projects\GPIO_TEST\GPIO_TEST\obj\Debug\GPIO_TEST.pdb
